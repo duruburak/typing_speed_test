@@ -1,4 +1,4 @@
-# typing_speed_test
+# Typing Speed Calculator
 GUI based app that calculates your typing speed in 1 minute.
 
 There are 2 languages available: English & Turkish.
